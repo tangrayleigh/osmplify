@@ -1,1 +1,1 @@
-# osmplify
+JavaScript Assignment 2
